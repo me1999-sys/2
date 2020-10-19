@@ -1,0 +1,113 @@
+.nav{
+    background-color:rebeccapurple;
+    text-align: left;
+    color: white;
+    padding: 25px;
+    text-size-adjust: 25px;
+    
+}
+a{
+    color: white;
+    text-align: right;
+    text-decoration: none;
+    padding-right: 4px;
+    padding-left: 9px;
+  
+}
+a:hover{
+    color: gray;
+    text-decoration: none;
+}
+.first{
+    color: rebeccapurple;
+}
+#filter{
+    float: right;
+    padding: 4px;
+    
+}
+
+.footer{
+    position: static;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+        background-color:rebeccapurple;
+        color: white;
+        text-align: center;
+        clear: both;
+    
+}
+.footerabout{
+    position:fixed;
+    left: 0;
+    bottom:0;
+    width:100%;
+    
+    background-color:rebeccapurple;
+    color: white;
+    text-align: center;
+
+}
+#demo{
+   float: left;
+
+
+}
+.gooter2{
+    
+
+    padding: 10px;
+    position: sticky;
+        
+        color: black;
+        text-align: center;
+        clear: both;
+    
+}
+
+th, td {
+    border-bottom: 1px solid #ddd;
+    padding: 15px;
+    text-align: center;
+  }
+  #myTable{
+    padding-top: 10px;
+    padding-right: 20px;
+    padding-bottom: 10px;
+    padding-left: 20px;
+    
+}
+#myInput {
+    background-image: url('searchicon.png'); /* Add a search icon to input */
+    background-position: 10px 12px; /* Position the search icon */
+    background-repeat: no-repeat; /* Do not repeat the icon image */
+    width: 100%; /* Full-width */
+    
+    font-size: 16px; /* Increase font-size */
+    padding:10px 20px 10px 20px; /* Add some padding */
+    border: 1px solid #ddd; /* Add a grey border */
+    margin-bottom: 12px; /* Add some space below the input */
+}
+#input{
+    padding-top: 5px;
+    padding-right: 0;
+    padding-bottom: 5px;
+    
+}
+
+.show{
+    background-color: rebeccapurple;
+    
+    padding-top: 5px;
+    padding-right: 125px;
+    padding-bottom: 5px;
+    padding-left: 125px;
+    color:whitesmoke;
+    border: rebeccapurple;
+}
+.del{
+    background-color: red;
+    color: white;
+    border: red;
+}
